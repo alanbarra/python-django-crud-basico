@@ -1,0 +1,5 @@
+- python manage.py runserver (dentro venv)
+- python manage.py startapp xxxxxx
+- python manage.py makemigrations
+- python manage.py migrate
+- python manage.py createsuperuser
